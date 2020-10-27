@@ -57,6 +57,7 @@ public class HomeController {
             System.out.println("action == " + reCaptchaModel.getAction());
             System.out.println("Дата == " + reCaptchaModel.getChallenge_ts());
             System.out.println("Hostname == " + reCaptchaModel.getHostname());
+            System.out.println("Каптчу прошли");
 
         } else if (reCaptchaModel.getError_codes() == null){
 
