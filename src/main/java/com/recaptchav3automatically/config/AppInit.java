@@ -1,4 +1,4 @@
-package com.recaptchav3.config;
+package com.recaptchav3automatically.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 

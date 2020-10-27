@@ -1,4 +1,4 @@
-package com.recaptchav3.config;
+package com.recaptchav3automatically.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -12,7 +12,7 @@ import org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver;
 import java.util.Properties;
 
 @Configuration
-@ComponentScan({"com.recaptchav3.controller"})
+@ComponentScan({"com.recaptchav3automatically.controller"})
 public class Config implements WebMvcConfigurer{
 
 

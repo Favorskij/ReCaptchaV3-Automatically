@@ -1,6 +1,6 @@
-package com.recaptchav3;
+package com.recaptchav3automatically;
 
-import com.recaptchav3.config.AppInit;
+import com.recaptchav3automatically.config.AppInit;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;

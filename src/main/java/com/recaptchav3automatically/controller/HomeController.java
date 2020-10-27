@@ -1,6 +1,6 @@
-package com.recaptchav3.controller;
+package com.recaptchav3automatically.controller;
 
-import com.recaptchav3.model.ReCaptchaModel;
+import com.recaptchav3automatically.model.ReCaptchaModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

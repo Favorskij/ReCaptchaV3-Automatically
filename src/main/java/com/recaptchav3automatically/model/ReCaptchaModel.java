@@ -1,4 +1,4 @@
-package com.recaptchav3.model;
+package com.recaptchav3automatically.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
